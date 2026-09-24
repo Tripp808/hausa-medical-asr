@@ -280,7 +280,7 @@ in its dataset card.
          Shallow Fusion and Density Ratio Rescoring for Hausa},
   author={Ankeli, Oche David and Adelani, Hassan and Egbunike, Theodora
           and Gottschalk, Joshua and Dossou, Bonaventure},
-  year={2027}
+  year={2026}
 }
 ```
 
