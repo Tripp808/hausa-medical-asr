@@ -27,6 +27,11 @@ class HausaMedicalASR:
     Convenience wrapper bundling the MMS acoustic model with the
     medical (target) and general (source) KenLM language models
     for Shallow Fusion and Density Ratio decoding.
+
+    Default hyperparameters in decoding.py are the modal configuration
+    selected via sentence-level 5-fold cross-validation (see decoding.py
+    module docstring). Out-of-fold results: Greedy 29.56% WER,
+    Shallow Fusion 23.55% WER, DRA 23.33% WER.
     """
 
     def __init__(self, target_lm_path, source_lm_path=None, device=None):

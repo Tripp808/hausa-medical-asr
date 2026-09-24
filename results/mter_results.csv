@@ -1,0 +1,231 @@
+file_id,fold,speaker_id,state,sex,tier,sentence_id,reference,total_terms,correct_greedy,correct_sf,correct_dra,mter_greedy,mter_sf,mter_dra
+S04_PL_M_010,1,S04,Plateau,M,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,1,3,3,66.66666666666667,0.0,0.0
+S06_GO_M_010,1,S06,Gombe,M,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,1,2,2,66.66666666666667,33.333333333333336,33.333333333333336
+S08_TA_M_010,1,S08,Taraba,M,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,0,1,1,100.0,66.66666666666667,66.66666666666667
+S10_YO_M_010,1,S10,Yobe,M,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,1,2,2,66.66666666666667,33.333333333333336,33.333333333333336
+S11_KD_M_010,1,S11,Kaduna,M,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,1,1,1,66.66666666666667,66.66666666666667,66.66666666666667
+S13_GO_F_010,1,S13,Gombe,F,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,1,3,3,66.66666666666667,0.0,0.0
+S18_GO_F_010,1,S18,Gombe,F,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,2,3,3,33.333333333333336,0.0,0.0
+S20_BA_F_010,1,S20,Bauchi,F,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,0,2,2,100.0,33.333333333333336,33.333333333333336
+S21_BA_F_010,1,S21,Bauchi,F,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S23_GO_F_010,1,S23,Gombe,F,2,10,ka sha ƙwayar maganin sau uku a kowace rana bayan abinci,3,1,3,3,66.66666666666667,0.0,0.0
+S04_PL_M_016,1,S04,Plateau,M,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,1,1,1,50.0,50.0,50.0
+S06_GO_M_016,1,S06,Gombe,M,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,1,1,1,50.0,50.0,50.0
+S08_TA_M_016,1,S08,Taraba,M,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,0,0,0,100.0,100.0,100.0
+S10_YO_M_016,1,S10,Yobe,M,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,0,0,0,100.0,100.0,100.0
+S11_KD_M_016,1,S11,Kaduna,M,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,0,1,1,100.0,50.0,50.0
+S13_GO_F_016,1,S13,Gombe,F,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,0,1,1,100.0,50.0,50.0
+S18_GO_F_016,1,S18,Gombe,F,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,0,1,1,100.0,50.0,50.0
+S20_BA_F_016,1,S20,Bauchi,F,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,0,0,0,100.0,100.0,100.0
+S21_BA_F_016,1,S21,Bauchi,F,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,2,2,2,0.0,0.0,0.0
+S23_GO_F_016,1,S23,Gombe,F,2,16,an gaya mini cewa matsin jinina ya yi yawa fiye da yadda ya kamata,2,0,0,0,100.0,100.0,100.0
+S04_PL_M_017,1,S04,Plateau,M,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S06_GO_M_017,1,S06,Gombe,M,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,1,1,1,66.66666666666667,66.66666666666667,66.66666666666667
+S08_TA_M_017,1,S08,Taraba,M,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,1,3,3,66.66666666666667,0.0,0.0
+S10_YO_M_017,1,S10,Yobe,M,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,2,3,3,33.333333333333336,0.0,0.0
+S11_KD_M_017,1,S11,Kaduna,M,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S13_GO_F_017,1,S13,Gombe,F,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S18_GO_F_017,1,S18,Gombe,F,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,3,3,3,0.0,0.0,0.0
+S20_BA_F_017,1,S20,Bauchi,F,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,1,1,1,66.66666666666667,66.66666666666667,66.66666666666667
+S21_BA_F_017,1,S21,Bauchi,F,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,3,3,3,0.0,0.0,0.0
+S23_GO_F_017,1,S23,Gombe,F,2,17,ina bukatar allurar rigakafi kafin in tafi in nayi tafiya kasar waje,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S04_PL_M_021,1,S04,Plateau,M,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,7,7,7,22.22222222222222,22.22222222222222,22.22222222222222
+S06_GO_M_021,1,S06,Gombe,M,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,6,8,8,33.333333333333336,11.111111111111116,11.111111111111116
+S08_TA_M_021,1,S08,Taraba,M,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,6,5,5,33.333333333333336,44.44444444444444,44.44444444444444
+S10_YO_M_021,1,S10,Yobe,M,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,8,8,8,11.111111111111116,11.111111111111116,11.111111111111116
+S11_KD_M_021,1,S11,Kaduna,M,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,6,6,6,33.333333333333336,33.333333333333336,33.333333333333336
+S13_GO_F_021,1,S13,Gombe,F,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,6,7,7,33.333333333333336,22.22222222222222,22.22222222222222
+S18_GO_F_021,1,S18,Gombe,F,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,8,8,8,11.111111111111116,11.111111111111116,11.111111111111116
+S20_BA_F_021,1,S20,Bauchi,F,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,8,8,8,11.111111111111116,11.111111111111116,11.111111111111116
+S21_BA_F_021,1,S21,Bauchi,F,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,6,7,7,33.333333333333336,22.22222222222222,22.22222222222222
+S23_GO_F_021,1,S23,Gombe,F,3,21,bayan gwajin jini an gano cewa matakan sukari a jikina sun fi iyaka kuma ana buƙatar magani na musamman,9,7,7,7,22.22222222222222,22.22222222222222,22.22222222222222
+S04_PL_M_007,2,S04,Plateau,M,1,7,hannuwana na karkarwa,2,0,0,0,100.0,100.0,100.0
+S06_GO_M_007,2,S06,Gombe,M,1,7,hannuwana na karkarwa,2,0,0,0,100.0,100.0,100.0
+S08_TA_M_007,2,S08,Taraba,M,1,7,hannuwana na karkarwa,2,1,1,1,50.0,50.0,50.0
+S10_YO_M_007,2,S10,Yobe,M,1,7,hannuwana na karkarwa,2,1,1,1,50.0,50.0,50.0
+S11_KD_M_007,2,S11,Kaduna,M,1,7,hannuwana na karkarwa,2,1,1,1,50.0,50.0,50.0
+S13_GO_F_007,2,S13,Gombe,F,1,7,hannuwana na karkarwa,2,1,1,1,50.0,50.0,50.0
+S18_GO_F_007,2,S18,Gombe,F,1,7,hannuwana na karkarwa,2,1,1,1,50.0,50.0,50.0
+S20_BA_F_007,2,S20,Bauchi,F,1,7,hannuwana na karkarwa,2,1,1,1,50.0,50.0,50.0
+S21_BA_F_007,2,S21,Bauchi,F,1,7,hannuwana na karkarwa,2,0,1,1,100.0,50.0,50.0
+S23_GO_F_007,2,S23,Gombe,F,1,7,hannuwana na karkarwa,2,1,1,1,50.0,50.0,50.0
+S04_PL_M_008,2,S04,Plateau,M,1,8,ina tai amai sau da yawa yau,1,0,0,0,100.0,100.0,100.0
+S06_GO_M_008,2,S06,Gombe,M,1,8,ina tai amai sau da yawa yau,1,1,1,1,0.0,0.0,0.0
+S08_TA_M_008,2,S08,Taraba,M,1,8,ina tai amai sau da yawa yau,1,0,0,0,100.0,100.0,100.0
+S10_YO_M_008,2,S10,Yobe,M,1,8,ina tai amai sau da yawa yau,1,0,0,0,100.0,100.0,100.0
+S11_KD_M_008,2,S11,Kaduna,M,1,8,ina tai amai sau da yawa yau,1,0,0,0,100.0,100.0,100.0
+S13_GO_F_008,2,S13,Gombe,F,1,8,ina tai amai sau da yawa yau,1,1,0,0,0.0,100.0,100.0
+S18_GO_F_008,2,S18,Gombe,F,1,8,ina tai amai sau da yawa yau,1,1,1,1,0.0,0.0,0.0
+S20_BA_F_008,2,S20,Bauchi,F,1,8,ina tai amai sau da yawa yau,1,1,1,1,0.0,0.0,0.0
+S21_BA_F_008,2,S21,Bauchi,F,1,8,ina tai amai sau da yawa yau,1,0,0,0,100.0,100.0,100.0
+S23_GO_F_008,2,S23,Gombe,F,1,8,ina tai amai sau da yawa yau,1,0,0,0,100.0,100.0,100.0
+S04_PL_M_011,2,S04,Plateau,M,2,11,an diba jinina a asibiti domin gwaji,4,2,2,2,50.0,50.0,50.0
+S06_GO_M_011,2,S06,Gombe,M,2,11,an diba jinina a asibiti domin gwaji,4,3,4,4,25.0,0.0,0.0
+S08_TA_M_011,2,S08,Taraba,M,2,11,an diba jinina a asibiti domin gwaji,4,2,3,3,50.0,25.0,25.0
+S10_YO_M_011,2,S10,Yobe,M,2,11,an diba jinina a asibiti domin gwaji,4,2,2,2,50.0,50.0,50.0
+S11_KD_M_011,2,S11,Kaduna,M,2,11,an diba jinina a asibiti domin gwaji,4,2,2,2,50.0,50.0,50.0
+S13_GO_F_011,2,S13,Gombe,F,2,11,an diba jinina a asibiti domin gwaji,4,3,2,2,25.0,50.0,50.0
+S18_GO_F_011,2,S18,Gombe,F,2,11,an diba jinina a asibiti domin gwaji,4,3,3,3,25.0,25.0,25.0
+S20_BA_F_011,2,S20,Bauchi,F,2,11,an diba jinina a asibiti domin gwaji,4,1,1,1,75.0,75.0,75.0
+S21_BA_F_011,2,S21,Bauchi,F,2,11,an diba jinina a asibiti domin gwaji,4,2,2,2,50.0,50.0,50.0
+S23_GO_F_011,2,S23,Gombe,F,2,11,an diba jinina a asibiti domin gwaji,4,1,1,1,75.0,75.0,75.0
+S04_PL_M_018,2,S04,Plateau,M,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,2,3,3,33.333333333333336,0.0,0.0
+S06_GO_M_018,2,S06,Gombe,M,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,2,3,3,33.333333333333336,0.0,0.0
+S08_TA_M_018,2,S08,Taraba,M,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,3,3,3,0.0,0.0,0.0
+S10_YO_M_018,2,S10,Yobe,M,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,3,3,3,0.0,0.0,0.0
+S11_KD_M_018,2,S11,Kaduna,M,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,3,3,3,0.0,0.0,0.0
+S13_GO_F_018,2,S13,Gombe,F,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,3,3,3,0.0,0.0,0.0
+S18_GO_F_018,2,S18,Gombe,F,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,3,3,3,0.0,0.0,0.0
+S20_BA_F_018,2,S20,Bauchi,F,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,3,3,3,0.0,0.0,0.0
+S21_BA_F_018,2,S21,Bauchi,F,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S23_GO_F_018,2,S23,Gombe,F,2,18,tana jin zafi a ƙashin baya kuma ba ta iya tsayawa tsawon lokaci,3,3,3,3,0.0,0.0,0.0
+S04_PL_M_025,2,S04,Plateau,M,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,4,4,4,19.999999999999996,19.999999999999996,19.999999999999996
+S06_GO_M_025,2,S06,Gombe,M,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,2,2,2,60.0,60.0,60.0
+S08_TA_M_025,2,S08,Taraba,M,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,4,4,4,19.999999999999996,19.999999999999996,19.999999999999996
+S10_YO_M_025,2,S10,Yobe,M,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,4,4,4,19.999999999999996,19.999999999999996,19.999999999999996
+S11_KD_M_025,2,S11,Kaduna,M,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,5,5,5,0.0,0.0,0.0
+S13_GO_F_025,2,S13,Gombe,F,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,5,5,5,0.0,0.0,0.0
+S18_GO_F_025,2,S18,Gombe,F,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,4,4,4,19.999999999999996,19.999999999999996,19.999999999999996
+S20_BA_F_025,2,S20,Bauchi,F,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,3,5,5,40.0,0.0,0.0
+S21_BA_F_025,2,S21,Bauchi,F,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,3,5,5,40.0,0.0,0.0
+S23_GO_F_025,2,S23,Gombe,F,3,25,likita ya bayyana cewa zan buƙaci yin tiyata idan magunguna na yau da kullum ba su yi aiki ba cikin makonni biyu,5,4,4,4,19.999999999999996,19.999999999999996,19.999999999999996
+S04_PL_M_001,3,S04,Plateau,M,1,1,ka sha ruwa mai yawa kowace rana,1,0,0,0,100.0,100.0,100.0
+S06_GO_M_001,3,S06,Gombe,M,1,1,ka sha ruwa mai yawa kowace rana,1,1,1,1,0.0,0.0,0.0
+S08_TA_M_001,3,S08,Taraba,M,1,1,ka sha ruwa mai yawa kowace rana,1,0,0,0,100.0,100.0,100.0
+S10_YO_M_001,3,S10,Yobe,M,1,1,ka sha ruwa mai yawa kowace rana,1,0,0,0,100.0,100.0,100.0
+S11_KD_M_001,3,S11,Kaduna,M,1,1,ka sha ruwa mai yawa kowace rana,1,0,1,1,100.0,0.0,0.0
+S13_GO_F_001,3,S13,Gombe,F,1,1,ka sha ruwa mai yawa kowace rana,1,0,0,0,100.0,100.0,100.0
+S18_GO_F_001,3,S18,Gombe,F,1,1,ka sha ruwa mai yawa kowace rana,1,0,0,0,100.0,100.0,100.0
+S20_BA_F_001,3,S20,Bauchi,F,1,1,ka sha ruwa mai yawa kowace rana,1,0,1,1,100.0,0.0,0.0
+S21_BA_F_001,3,S21,Bauchi,F,1,1,ka sha ruwa mai yawa kowace rana,1,0,1,1,100.0,0.0,0.0
+S23_GO_F_001,3,S23,Gombe,F,1,1,ka sha ruwa mai yawa kowace rana,1,0,0,0,100.0,100.0,100.0
+S04_PL_M_004,3,S04,Plateau,M,1,4,ina buƙatar magani don ciwon kai,3,3,3,3,0.0,0.0,0.0
+S06_GO_M_004,3,S06,Gombe,M,1,4,ina buƙatar magani don ciwon kai,3,0,0,1,100.0,100.0,66.66666666666667
+S08_TA_M_004,3,S08,Taraba,M,1,4,ina buƙatar magani don ciwon kai,3,3,3,3,0.0,0.0,0.0
+S10_YO_M_004,3,S10,Yobe,M,1,4,ina buƙatar magani don ciwon kai,3,3,3,3,0.0,0.0,0.0
+S11_KD_M_004,3,S11,Kaduna,M,1,4,ina buƙatar magani don ciwon kai,3,3,3,3,0.0,0.0,0.0
+S13_GO_F_004,3,S13,Gombe,F,1,4,ina buƙatar magani don ciwon kai,3,3,3,3,0.0,0.0,0.0
+S18_GO_F_004,3,S18,Gombe,F,1,4,ina buƙatar magani don ciwon kai,3,3,3,3,0.0,0.0,0.0
+S20_BA_F_004,3,S20,Bauchi,F,1,4,ina buƙatar magani don ciwon kai,3,3,3,3,0.0,0.0,0.0
+S21_BA_F_004,3,S21,Bauchi,F,1,4,ina buƙatar magani don ciwon kai,3,3,3,3,0.0,0.0,0.0
+S23_GO_F_004,3,S23,Gombe,F,1,4,ina buƙatar magani don ciwon kai,3,3,3,3,0.0,0.0,0.0
+S04_PL_M_013,3,S04,Plateau,M,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,2,2,2,0.0,0.0,0.0
+S06_GO_M_013,3,S06,Gombe,M,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,2,2,2,0.0,0.0,0.0
+S08_TA_M_013,3,S08,Taraba,M,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,2,2,2,0.0,0.0,0.0
+S10_YO_M_013,3,S10,Yobe,M,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,2,2,2,0.0,0.0,0.0
+S11_KD_M_013,3,S11,Kaduna,M,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,2,2,2,0.0,0.0,0.0
+S13_GO_F_013,3,S13,Gombe,F,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,2,2,2,0.0,0.0,0.0
+S18_GO_F_013,3,S18,Gombe,F,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,1,1,1,50.0,50.0,50.0
+S20_BA_F_013,3,S20,Bauchi,F,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,2,2,2,0.0,0.0,0.0
+S21_BA_F_013,3,S21,Bauchi,F,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,2,2,2,0.0,0.0,0.0
+S23_GO_F_013,3,S23,Gombe,F,2,13,ina da tari mai tsanani tun sati ɗaya da ya wuce,2,2,2,2,0.0,0.0,0.0
+S04_PL_M_019,3,S04,Plateau,M,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,2,3,3,33.333333333333336,0.0,0.0
+S06_GO_M_019,3,S06,Gombe,M,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S08_TA_M_019,3,S08,Taraba,M,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,3,3,3,0.0,0.0,0.0
+S10_YO_M_019,3,S10,Yobe,M,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,3,3,3,0.0,0.0,0.0
+S11_KD_M_019,3,S11,Kaduna,M,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,3,3,3,0.0,0.0,0.0
+S13_GO_F_019,3,S13,Gombe,F,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,3,3,3,0.0,0.0,0.0
+S18_GO_F_019,3,S18,Gombe,F,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,3,3,3,0.0,0.0,0.0
+S20_BA_F_019,3,S20,Bauchi,F,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,3,3,3,0.0,0.0,0.0
+S21_BA_F_019,3,S21,Bauchi,F,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,2,3,3,33.333333333333336,0.0,0.0
+S23_GO_F_019,3,S23,Gombe,F,2,19,likita ya rubuta mun magunguna guda uku dabandaban,3,0,3,3,100.0,0.0,0.0
+S04_PL_M_022,3,S04,Plateau,M,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,9,9,9,0.0,0.0,0.0
+S06_GO_M_022,3,S06,Gombe,M,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,5,8,8,44.44444444444444,11.111111111111116,11.111111111111116
+S08_TA_M_022,3,S08,Taraba,M,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,7,9,9,22.22222222222222,0.0,0.0
+S10_YO_M_022,3,S10,Yobe,M,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,9,9,9,0.0,0.0,0.0
+S11_KD_M_022,3,S11,Kaduna,M,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,9,9,9,0.0,0.0,0.0
+S13_GO_F_022,3,S13,Gombe,F,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,9,9,9,0.0,0.0,0.0
+S18_GO_F_022,3,S18,Gombe,F,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,8,8,8,11.111111111111116,11.111111111111116,11.111111111111116
+S20_BA_F_022,3,S20,Bauchi,F,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,9,9,9,0.0,0.0,0.0
+S21_BA_F_022,3,S21,Bauchi,F,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,9,9,9,0.0,0.0,0.0
+S23_GO_F_022,3,S23,Gombe,F,3,22,alamun cutar zazzabin cizon sauro sun haɗa da zazzabi mai ƙarfi ciwon kai rawar jiki da rashin ƙarfi gabaɗaya,9,5,8,8,44.44444444444444,11.111111111111116,11.111111111111116
+S04_PL_M_003,4,S04,Plateau,M,1,3,jikinna ya kama zafi yau sosai,2,1,1,1,50.0,50.0,50.0
+S06_GO_M_003,4,S06,Gombe,M,1,3,jikinna ya kama zafi yau sosai,2,0,0,0,100.0,100.0,100.0
+S08_TA_M_003,4,S08,Taraba,M,1,3,jikinna ya kama zafi yau sosai,2,1,1,1,50.0,50.0,50.0
+S10_YO_M_003,4,S10,Yobe,M,1,3,jikinna ya kama zafi yau sosai,2,1,1,1,50.0,50.0,50.0
+S11_KD_M_003,4,S11,Kaduna,M,1,3,jikinna ya kama zafi yau sosai,2,1,1,1,50.0,50.0,50.0
+S13_GO_F_003,4,S13,Gombe,F,1,3,jikinna ya kama zafi yau sosai,2,1,1,1,50.0,50.0,50.0
+S18_GO_F_003,4,S18,Gombe,F,1,3,jikinna ya kama zafi yau sosai,2,1,1,1,50.0,50.0,50.0
+S20_BA_F_003,4,S20,Bauchi,F,1,3,jikinna ya kama zafi yau sosai,2,1,1,1,50.0,50.0,50.0
+S21_BA_F_003,4,S21,Bauchi,F,1,3,jikinna ya kama zafi yau sosai,2,0,1,1,100.0,50.0,50.0
+S23_GO_F_003,4,S23,Gombe,F,1,3,jikinna ya kama zafi yau sosai,2,0,0,0,100.0,100.0,100.0
+S04_PL_M_012,4,S04,Plateau,M,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,4,4,4,19.999999999999996,19.999999999999996,19.999999999999996
+S06_GO_M_012,4,S06,Gombe,M,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,3,3,3,40.0,40.0,40.0
+S08_TA_M_012,4,S08,Taraba,M,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,3,4,4,40.0,19.999999999999996,19.999999999999996
+S10_YO_M_012,4,S10,Yobe,M,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,5,5,5,0.0,0.0,0.0
+S11_KD_M_012,4,S11,Kaduna,M,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,5,5,5,0.0,0.0,0.0
+S13_GO_F_012,4,S13,Gombe,F,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,5,5,5,0.0,0.0,0.0
+S18_GO_F_012,4,S18,Gombe,F,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,2,2,3,60.0,60.0,40.0
+S20_BA_F_012,4,S20,Bauchi,F,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,5,5,5,0.0,0.0,0.0
+S21_BA_F_012,4,S21,Bauchi,F,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,5,5,5,0.0,0.0,0.0
+S23_GO_F_012,4,S23,Gombe,F,2,12,ciwon sukari yana buƙatar kulawa ta musamman da abinci mai kyau,5,4,5,5,19.999999999999996,0.0,0.0
+S04_PL_M_015,4,S04,Plateau,M,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S06_GO_M_015,4,S06,Gombe,M,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S08_TA_M_015,4,S08,Taraba,M,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,1,1,1,66.66666666666667,66.66666666666667,66.66666666666667
+S10_YO_M_015,4,S10,Yobe,M,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,1,1,1,66.66666666666667,66.66666666666667,66.66666666666667
+S11_KD_M_015,4,S11,Kaduna,M,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S13_GO_F_015,4,S13,Gombe,F,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S18_GO_F_015,4,S18,Gombe,F,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S20_BA_F_015,4,S20,Bauchi,F,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S21_BA_F_015,4,S21,Bauchi,F,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S23_GO_F_015,4,S23,Gombe,F,2,15,yaron yana da gudawa kuma jikansa ya yi rauni sosai,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S04_PL_M_024,4,S04,Plateau,M,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,3,3,3,40.0,40.0,40.0
+S06_GO_M_024,4,S06,Gombe,M,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,4,4,4,19.999999999999996,19.999999999999996,19.999999999999996
+S08_TA_M_024,4,S08,Taraba,M,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,5,5,5,0.0,0.0,0.0
+S10_YO_M_024,4,S10,Yobe,M,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,5,5,5,0.0,0.0,0.0
+S11_KD_M_024,4,S11,Kaduna,M,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,5,5,5,0.0,0.0,0.0
+S13_GO_F_024,4,S13,Gombe,F,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,5,5,5,0.0,0.0,0.0
+S18_GO_F_024,4,S18,Gombe,F,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,4,4,4,19.999999999999996,19.999999999999996,19.999999999999996
+S20_BA_F_024,4,S20,Bauchi,F,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,4,5,4,19.999999999999996,0.0,19.999999999999996
+S21_BA_F_024,4,S21,Bauchi,F,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,4,5,4,19.999999999999996,0.0,19.999999999999996
+S23_GO_F_024,4,S23,Gombe,F,3,24,dole ne a kai yaron asibiti da sauri saboda yana da alamu na rashin ruwa a jiki wanda ke da haɗari,5,5,5,5,0.0,0.0,0.0
+S04_PL_M_002,5,S04,Plateau,M,1,2,ina jin zafi a kirjina,2,1,1,1,50.0,50.0,50.0
+S06_GO_M_002,5,S06,Gombe,M,1,2,ina jin zafi a kirjina,2,0,0,0,100.0,100.0,100.0
+S08_TA_M_002,5,S08,Taraba,M,1,2,ina jin zafi a kirjina,2,1,1,1,50.0,50.0,50.0
+S10_YO_M_002,5,S10,Yobe,M,1,2,ina jin zafi a kirjina,2,1,1,1,50.0,50.0,50.0
+S11_KD_M_002,5,S11,Kaduna,M,1,2,ina jin zafi a kirjina,2,1,1,1,50.0,50.0,50.0
+S13_GO_F_002,5,S13,Gombe,F,1,2,ina jin zafi a kirjina,2,1,1,1,50.0,50.0,50.0
+S18_GO_F_002,5,S18,Gombe,F,1,2,ina jin zafi a kirjina,2,1,1,1,50.0,50.0,50.0
+S20_BA_F_002,5,S20,Bauchi,F,1,2,ina jin zafi a kirjina,2,1,1,1,50.0,50.0,50.0
+S21_BA_F_002,5,S21,Bauchi,F,1,2,ina jin zafi a kirjina,2,1,1,1,50.0,50.0,50.0
+S23_GO_F_002,5,S23,Gombe,F,1,2,ina jin zafi a kirjina,2,0,0,0,100.0,100.0,100.0
+S04_PL_M_005,5,S04,Plateau,M,1,5,ka huta sosai don ka warke da wuri,1,0,0,0,100.0,100.0,100.0
+S06_GO_M_005,5,S06,Gombe,M,1,5,ka huta sosai don ka warke da wuri,1,0,0,0,100.0,100.0,100.0
+S08_TA_M_005,5,S08,Taraba,M,1,5,ka huta sosai don ka warke da wuri,1,0,0,0,100.0,100.0,100.0
+S10_YO_M_005,5,S10,Yobe,M,1,5,ka huta sosai don ka warke da wuri,1,0,1,1,100.0,0.0,0.0
+S11_KD_M_005,5,S11,Kaduna,M,1,5,ka huta sosai don ka warke da wuri,1,0,0,0,100.0,100.0,100.0
+S13_GO_F_005,5,S13,Gombe,F,1,5,ka huta sosai don ka warke da wuri,1,0,0,0,100.0,100.0,100.0
+S18_GO_F_005,5,S18,Gombe,F,1,5,ka huta sosai don ka warke da wuri,1,0,0,0,100.0,100.0,100.0
+S20_BA_F_005,5,S20,Bauchi,F,1,5,ka huta sosai don ka warke da wuri,1,0,0,0,100.0,100.0,100.0
+S21_BA_F_005,5,S21,Bauchi,F,1,5,ka huta sosai don ka warke da wuri,1,0,0,0,100.0,100.0,100.0
+S23_GO_F_005,5,S23,Gombe,F,1,5,ka huta sosai don ka warke da wuri,1,0,0,0,100.0,100.0,100.0
+S04_PL_M_009,5,S04,Plateau,M,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,6,6,6,0.0,0.0,0.0
+S06_GO_M_009,5,S06,Gombe,M,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,5,5,5,16.666666666666664,16.666666666666664,16.666666666666664
+S08_TA_M_009,5,S08,Taraba,M,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,4,4,4,33.333333333333336,33.333333333333336,33.333333333333336
+S10_YO_M_009,5,S10,Yobe,M,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,5,5,5,16.666666666666664,16.666666666666664,16.666666666666664
+S11_KD_M_009,5,S11,Kaduna,M,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,5,6,6,16.666666666666664,0.0,0.0
+S13_GO_F_009,5,S13,Gombe,F,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,5,5,5,16.666666666666664,16.666666666666664,16.666666666666664
+S18_GO_F_009,5,S18,Gombe,F,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,6,6,6,0.0,0.0,0.0
+S20_BA_F_009,5,S20,Bauchi,F,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,6,6,6,0.0,0.0,0.0
+S21_BA_F_009,5,S21,Bauchi,F,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,5,5,5,16.666666666666664,16.666666666666664,16.666666666666664
+S23_GO_F_009,5,S23,Gombe,F,2,9,likita ya ce ina da zazzabin cizon sauro kuma ya rubuta magani,6,5,5,5,16.666666666666664,16.666666666666664,16.666666666666664
+S04_PL_M_014,5,S04,Plateau,M,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,3,3,3,0.0,0.0,0.0
+S06_GO_M_014,5,S06,Gombe,M,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,3,3,3,0.0,0.0,0.0
+S08_TA_M_014,5,S08,Taraba,M,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,2,3,3,33.333333333333336,0.0,0.0
+S10_YO_M_014,5,S10,Yobe,M,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,2,3,3,33.333333333333336,0.0,0.0
+S11_KD_M_014,5,S11,Kaduna,M,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,3,3,3,0.0,0.0,0.0
+S13_GO_F_014,5,S13,Gombe,F,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,3,3,3,0.0,0.0,0.0
+S18_GO_F_014,5,S18,Gombe,F,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,2,2,2,33.333333333333336,33.333333333333336,33.333333333333336
+S20_BA_F_014,5,S20,Bauchi,F,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,2,3,3,33.333333333333336,0.0,0.0
+S21_BA_F_014,5,S21,Bauchi,F,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,2,3,3,33.333333333333336,0.0,0.0
+S23_GO_F_014,5,S23,Gombe,F,2,14,likita ya umurce ni da in dawo bayan kwana bakwai don duba,3,2,3,3,33.333333333333336,0.0,0.0
+S04_PL_M_023,5,S04,Plateau,M,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,0,0,0,100.0,100.0,100.0
+S06_GO_M_023,5,S06,Gombe,M,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,0,0,0,100.0,100.0,100.0
+S08_TA_M_023,5,S08,Taraba,M,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,0,0,0,100.0,100.0,100.0
+S10_YO_M_023,5,S10,Yobe,M,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,0,0,0,100.0,100.0,100.0
+S11_KD_M_023,5,S11,Kaduna,M,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,0,0,0,100.0,100.0,100.0
+S13_GO_F_023,5,S13,Gombe,F,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,0,0,0,100.0,100.0,100.0
+S18_GO_F_023,5,S18,Gombe,F,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,1,1,1,50.0,50.0,50.0
+S20_BA_F_023,5,S20,Bauchi,F,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,0,0,0,100.0,100.0,100.0
+S21_BA_F_023,5,S21,Bauchi,F,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,0,0,0,100.0,100.0,100.0
+S23_GO_F_023,5,S23,Gombe,F,3,23,an shawarce ni da in guji abinci mai yawan kise da gishiri saboda matsalar zuciyata,2,0,0,0,100.0,100.0,100.0

@@ -2,7 +2,23 @@
 decoding.py
 
 Core decoding functions: Greedy, Shallow Fusion, and Density Ratio Approach.
-Used both for evaluation and for the HuggingFace inference pipeline.
+
+Hyperparameters below are the MODAL (most frequent) configuration selected
+across a sentence-level 5-fold cross-validation protocol: 25 sentence
+prompts were split into 5 folds (20 prompts tune / 5 prompts held out per
+fold, all 10 speakers retained in both splits), hyperparameters were
+selected independently per fold on the tuning prompts only, and reported
+metrics are pooled out-of-fold predictions (250 utterances total, each
+decoded with the hyperparameters selected on a disjoint set of prompts).
+
+4 of 5 folds selected SF: lm_weight=0.8, word_score=1.5 (Fold 2 selected
+word_score=0.0) and DRA: lambda_tau=1.2, lambda_psi=0.1, word_score=0.5
+(Fold 1 selected lambda_tau=1.0). The values below are the modal
+configuration, suitable as a single deployed default; per-fold values are
+in icasp_fold_parameters.csv for full reproducibility.
+
+Out-of-fold results (250 utterances, 10 speakers, 6 northern Nigerian
+states): Greedy 29.56% WER, Shallow Fusion 23.55% WER, DRA 23.33% WER.
 """
 
 import numpy as np
@@ -57,8 +73,9 @@ def transcribe_shallow_fusion(
     Shallow Fusion decoding:
         log P_SF(W|X) = log P_CTC(W|X) + lm_weight * log P_TGT(W) + word_score * |W|
 
-    Default hyperparameters (lm_weight=0.8, word_score=1.5) are the values
-    found via grid search on the evaluation set (SF WER: 23.30%).
+    Default hyperparameters (lm_weight=0.8, word_score=1.5) are the modal
+    configuration selected across 4 of 5 cross-validation folds (out-of-fold
+    SF WER: 23.55%).
     """
     return decoder_sf.decode(
         logits,
@@ -87,8 +104,11 @@ def transcribe_density_ratio(
                       + word_score * |W|
 
     Default hyperparameters (lambda_tau=1.2, lambda_psi=0.1, word_score=0.5)
-    are the values found via grid search on the evaluation set, reported
-    in the paper (DRA WER: 22.93%, vs. Greedy 29.56%, vs. SF 23.30%).
+    are the modal configuration selected across 4 of 5 cross-validation
+    folds (out-of-fold DRA WER: 23.33%, vs. Greedy 29.56%, vs. SF 23.55%;
+    the 0.22-point SF-DRA gap is not statistically significant, p=0.42).
+    Candidates are the fold-specific SF beam output — DRA rescoring changed
+    the SF hypothesis in 28/250 (11.2%) out-of-fold utterances.
     """
     beams = decoder_sf.decode_beams(
         logits,
