@@ -3,9 +3,9 @@
 Text-only domain adaptation for low-resource medical ASR using Shallow Fusion
 and the Density Ratio Approach (DRA), applied to Hausa.
 
-📄 **Paper**: [arXiv link — TBD]
+📄 **Paper**: [arXiv link - TBD]
 🤗 **Model**: [huggingface.co/OcheAnkeli/hausa-medical-asr](https://huggingface.co/OcheAnkeli/hausa-medical-asr)
-🤗 **Dataset**: [huggingface.co/datasets/OcheAnkeli/hausa-medical-speech](https://huggingface.co/datasets/OcheAnkeli/hausa-medical-speech)
+🗂️ **Evaluation data**: Participant recordings are not publicly released.
 
 ## Overview
 
@@ -122,7 +122,7 @@ sentences. **16 prompts were approved verbatim and 9 were corrected** before
 recording.
 
 Speaker identities are represented using anonymized identifiers, and informed
-consent was obtained.
+consent was obtained. The participant recordings are not publicly released.
 
 ## Cross-Validation
 
@@ -258,38 +258,11 @@ source_lm = hf_hub_download(
 )
 ```
 
-
-## Loading the Evaluation Dataset
-
-If the evaluation dataset is released through Hugging Face Datasets:
-
-```python
-from datasets import load_dataset
-
-ds = load_dataset("OcheAnkeli/hausa-medical-speech")
-```
-
-The released dataset should follow the consent and usage conditions described
-in its dataset card.
-
-## Citation
-
-```bibtex
-@inproceedings{ankeli2027hausamedasr,
-  title={Text-Only Domain Adaptation for Low-Resource Medical ASR:
-         Shallow Fusion and Density Ratio Rescoring for Hausa},
-  author={Ankeli, Oche David and Adelani, Hassan and Egbunike, Theodora
-          and Gottschalk, Joshua and Dossou, Bonaventure},
-  year={2026}
-}
-```
-
 ## License
 
 - **Code**: MIT License.
 - **Trained models**: CC-BY-4.0, where applicable.
-- **Dataset**: see the dataset card for consent-based usage and redistribution
-  conditions.
+- **Evaluation recordings**: Not publicly released.
 
 The underlying BBC Hausa and Deutsche Welle Hausa source text used to train
 the medical language model is not redistributed as part of this repository.
@@ -300,7 +273,7 @@ We thank the Hausa-speaking medical reviewers who validated the evaluation
 sentences and the speakers who contributed the recorded evaluation data.
 
 Research was conducted within the RUZIVO Research Lab at African Leadership
-University.
+University, Kigali, Rwanda and YUX Design, Dakar, Senegal.
 
 ## Disclaimer
 
