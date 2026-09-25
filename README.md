@@ -235,8 +235,7 @@ hausa-medical-asr/
 ├── data/            Evaluation metadata and validated prompts
 ├── models/          Language-model binaries
 ├── results/         WER, CER, MTER, and statistical results
-├── figures/         Paper figures
-└── paper/           Paper source and PDF
+└──  figures/         Paper figures
 ```
 
 ## Model Weights
