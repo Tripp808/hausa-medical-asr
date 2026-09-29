@@ -56,7 +56,7 @@ A **4-gram KenLM** language model with modified Kneser-Ney smoothing is trained
 on **19,421 Hausa health sentences** collected from BBC Hausa and Deutsche
 Welle Hausa health sections.
 
-The resulting binary language model is approximately **16.76 MB** and training
+The resulting binary language model is approximately **17.6 MB** and training
 takes approximately **2.5 seconds on CPU**.
 
 ### General Language Model
@@ -142,7 +142,7 @@ and held-out evaluation within a fold.
 
 ## Medical Term Error Rate
 
-We also report **Medical Term Error Rate (MTER)** using a fixed **64-term
+We also report **Medical Term Error Rate (MTER)** using a fixed **66-term
 medical lexicon**.
 
 MTER is recall-oriented and measures whether medical terms appearing in the
@@ -232,8 +232,6 @@ evaluation implementation.
 hausa-medical-asr/
 ├── notebooks/       Evaluation and language-model notebooks
 ├── src/             Decoding, metrics, and inference code
-├── data/            Evaluation metadata and validated prompts
-├── models/          Language-model binaries
 ├── results/         WER, CER, MTER, and statistical results
 └──  figures/         Paper figures
 ```
